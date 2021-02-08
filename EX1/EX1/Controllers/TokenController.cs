@@ -12,7 +12,7 @@ using System.Security.Claims;
 using System.Text;
 using EX1.Models;
 
-namespace API_C07_JWT.Controllers
+namespace EX1.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
